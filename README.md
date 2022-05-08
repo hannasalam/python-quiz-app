@@ -1,6 +1,6 @@
 # python-quiz-app
 
-## To run the project
+## To play the quiz
 - Clone the repo into your local system
 - Go to the repo folder in the terminal
 - Type `python3 main.py` to run the project
